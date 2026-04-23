@@ -8,7 +8,7 @@
 
 ## 販売価格
 
-CubeTeamが提供する全ての商品については、[プラン一覧](https://dev.cubeteam.app/pricing)をご確認ください。
+CubeTeamが提供する全ての商品については、[プラン一覧](https://cubeteam.app/pricing)をご確認ください。
 
 表示価格には消費税が含まれています。
 
